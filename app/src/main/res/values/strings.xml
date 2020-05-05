@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Coronavirus</string>
+    <string name="title_home">Home</string>
+    <string name="title_country">Country</string>
+    <string name="Coronavirus_title">Coronavirus COVID-19\nStatistics</string>
+    <string name="Quantity_infected">Quantity infected</string>
+    <string name="Quantity_deaths">Quantity deaths</string>
+    <string name="Quantity_recovered">Quantity recovered</string>
+
+</resources>
