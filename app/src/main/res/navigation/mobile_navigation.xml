@@ -11,11 +11,7 @@
         android:label="@string/title_home"
         tools:layout="@layout/fragment_home" />
 
-    <fragment
-        android:id="@+id/navigation_country"
-        android:name="com.example.myapplication.ui.country.CountryFragment"
-        android:label="@string/title_country"
-        tools:layout="@layout/fragment_country" />
+
 
 
 </navigation>
